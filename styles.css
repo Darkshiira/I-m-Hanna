@@ -1,0 +1,185 @@
+body {
+  background-color: #FCF0C8;
+  font-family: "Open Sans", sans-serif;
+  margin: 0;
+  text-align: center;
+}
+
+div {
+  position: relative;
+}
+
+h1 {
+  color: #630000;
+  margin: 0;
+  width: 100%;
+  font-family: "Licorice", cursive;
+  font-size: 400%;
+}
+
+h3 {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+hr {
+  border-top: 10px dotted #630000;
+  border-bottom: none;
+  width: 10%;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+p {
+  font-size: 150%
+}
+
+
+/***************class****************/
+.arttalk {
+  position:absolute;
+  right: 500px;
+  left: 500px;
+}
+
+.bumblebee {
+  height: 30px;
+  width: 30px;
+  position: absolute;
+  bottom: 10px;
+}
+
+.butterfly {
+  height: 70px;
+  width: 70px;
+  position: absolute;
+  right: 500px;
+  top: 500px;
+}
+
+.canvas {
+  height:200px;
+  width:200px;
+  background-color: #FACE7F;
+  border-width: thick;
+  border-color: #630000;
+  border-radius: 15px 50px 30px;
+  position: absolute;
+  left: 100px;
+}
+
+.computer {
+  height:200px;
+  width:200px;
+  background-color: #FACE7F;
+  border-width: thick;
+  border-color: #630000;
+  border-radius: 15px 50px 30px;
+  position: absolute;
+  left: 100px;
+}
+
+.skills {
+  margin-top: 50px;
+}
+
+.skill-row {
+  height: 300px;
+}
+
+.dragonfly {
+  position: relative;
+  top: 100px;
+  left: 100px;
+}
+
+.flowerborder {
+  height: 300px;
+  width: 800px;
+  position: relative;
+  top: 500px;
+}
+
+.glass {
+height:200px;
+width:200px;
+background-color: #FACE7F;
+border-width: thick;
+border-color: #630000;
+border-radius: 15px 50px 30px;
+position: absolute;
+right: 100px;
+top: 40px;
+}
+
+.middle {
+  margin-top: 300px;
+}
+
+.Myself {
+  height: 300px;
+  width: 250px;
+  margin-top: 50px;
+}
+
+.name {
+  position: relative;
+  top: 200px;
+}
+
+.nature {
+  height:100px;
+  width:100px;
+  position: absolute;
+  left: 150px;
+  top: 40px;
+}
+
+.orchid {
+  height: 300px;
+  width: 250px;
+  position:absolute;
+  right: 100px;
+  bottom: 50px;
+}
+
+.roses {
+  height:400px;
+  width:300px;
+  position:absolute;
+  left:0;
+
+}
+
+.teacher {
+  height:200px;
+  width:200px;
+  background-color: #FACE7F;
+  border-width: thick;
+  border-color: #630000;
+  border-radius: 15px 50px 30px;
+  position: absolute;
+  left: 100px;
+}
+
+.teachertalk {
+  position:absolute;
+  right: 500px;
+  left: 500px;
+}
+
+.title {
+
+  margin: 0;
+  width: 100%;
+  position: relative;
+  top: 250px;
+
+  font-size: 150%;
+}
+
+.top {
+  height: 900px;
+  width: auto;
+  text-align: center;
+}
